@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793880401420,
+      "tag": "0000_flawless_yellow_claw",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794160062046,
+      "tag": "0001_far_blob",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794161234315,
+      "tag": "0002_even_loki",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1794166571542,
+      "tag": "0003_long_maverick",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1794167725818,
+      "tag": "0004_chilly_gargoyle",
+      "breakpoints": true
+    }
+  ]
+}
